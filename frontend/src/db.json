@@ -1,0 +1,38 @@
+{
+    "Starters": [
+      { "id": 1, 
+        "name": "Chicken Satay", 
+        "description": "The famous grilled chicken with Satay sauce",
+        "src": "./images/chicken_satay.jpg",
+        "price": "8 Euros"
+    },
+    { "id": 2, 
+        "name": "Seafood Salad", 
+        "description": "Fresh vegetables with seafood",
+        "src": "./images/salad_sea_food.jpg",
+        "price": "8 Euros"
+    },
+    { "id": 3, 
+        "name": "Mango salad with shrimps", 
+        "description": "Mango salad with shrimps",
+        "src": "./images/thai_salad_mango.jpg",
+        "price": "8 Euros"
+    }
+    ],
+    "MainDishes": [
+        { "id": 1, 
+            "name": "json-server", 
+            "description": "typicode",
+            "src":"",
+            "price":""
+        }
+    ],
+    "Desserts": [
+        { "id": 1, 
+            "name": "json-server", 
+            "description": "typicode",
+            "src":"",
+            "price":""
+        }
+    ]
+  }
